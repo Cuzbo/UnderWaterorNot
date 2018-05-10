@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Under Water or Not</string>
+
+    <string name="coordinates">Coordinates</string>
+    <string name="latitude">Latitude (from -90 to +90)</string>
+    <string name="longitude">Longitude (from -180 to +180)</string>
+
+    <string name="result">Is it on Water?</string>
+    <string name="under_water">It is Under Water</string>
+    <string name="land">It is on Land</string>
+
+</resources>
